@@ -15,7 +15,7 @@ public class main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        Member1.main(args);
         Member2.main(args);
         member3.main(args);
     }
